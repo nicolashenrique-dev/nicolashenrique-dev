@@ -12,8 +12,11 @@
   <a href="mailto:nicolasherique.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/" target="_blank">
+  <a href="https://app.hackthebox.com/profile/nicolashenrique2410" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+  <a href="https://tryhackme.com/p/nicolashenrique2410" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </div>
 
@@ -25,29 +28,44 @@
 
 ---
 
-## 👾 Sobre Mim
+## 👾 whoami
 
 ```bash
-$ whoami
-nicolas@kali:~$ 
+nicolas@kali:~$ whoami
 
-> Nome     : Nicolas Henrique
-> Idade    : 17 anos
+> Nome     : Nicolas Henrique Lima Silva
 > Base     : Andradina, SP — Brasil
-> Formação : ADS — SENAI (2026)
+> Formação : ADS — SENAI São Paulo (2026)
 > Foco     : Offensive Security + Cloud AWS
-> Objetivo : Consulting independente · Red Team · Clientes internacionais
-> Status   : Estudando para PNPT + AWS SAA-C03
+> Objetivo : Freelance em pentest · Red Team · Clientes internacionais
+> Status   : Estudando PNPT + AWS SAA-C03 · HTB Skilled Rank
 ```
 
-- 🔴 Estudando **pentest ofensivo** no HTB Academy + TCM Security (PEH)
-- ☁️ Certificado **AWS Cloud Practitioner** · preparando **SAA-C03**
-- 🐍 Background em **Full Stack JS** (React, Node.js, PostgreSQL, AWS)
+- 🔴 Pentest ofensivo — **HTB Skilled (Nível 31)** · **TryHackMe Top 25%**
+- ☁️ **AWS Cloud Practitioner** certificado · preparando **SAA-C03**
+- 🐍 Background em **Full Stack** (React, Node.js, PostgreSQL, AWS)
+- 🔍 Desenvolveu scanner de portas com integração à **API NVD/CVE** (NIST)
 - 🎯 Meta: consulting remoto independente em segurança ofensiva
 
 ---
 
-## 🛠️ Stack
+## 🏅 Certificações & Progresso
+
+<div align="center">
+
+| Certificação | Emissor | Status |
+|---|---|---|
+| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | ✅ Concluída |
+| Introduction to Cybersecurity | Cisco Networking Academy | ✅ Concluída |
+| Linux Unhatched | Linux Foundation | ✅ Concluída |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 Em andamento |
+| PNPT — Practical Network Penetration Tester | TCM Security | 🔄 Em andamento |
+
+</div>
+
+---
+
+## 🧠 Habilidades Técnicas
 
 <table align="center">
   <tr>
@@ -59,9 +77,10 @@ nicolas@kali:~$
     <td align="center">
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Nmap-004170?style=flat&logo=nmap&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /><br/>
@@ -81,19 +100,13 @@ nicolas@kali:~$
 
 ---
 
-## 🏅 Certificações
+## 🔬 Projetos em Destaque
 
-<div align="center">
-
-| Certificação | Emissor | Status |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | ✅ Concluída |
-| Introduction to Cybersecurity | Cisco Networking Academy | ✅ Concluída |
-| Linux Unhatched | Linux Foundation | ✅ Concluída |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔄 Em andamento |
-| PNPT — Practical Network Penetration Tester | TCM Security | 🔄 Em andamento |
-
-</div>
+| [CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python) | Scanner de portas com integração à API NVD/NIST — identifica versões de serviços e correlaciona CVEs automaticamente | Python |
+| [Sistema Escolar](https://escola-fawn.vercel.app/) | Sistema completo de gestão escolar com autenticação e CRUD | Node.js · EJS · PostgreSQL |
+| [GM Painéis](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/) | Landing page freelance real entregue a cliente | HTML · CSS · JS · Tailwind |
 
 ---
 
@@ -110,13 +123,16 @@ nicolas@kali:~$
 
 ---
 
-## 🔬 Projetos em Destaque
+## 🎯 CTF & Labs
 
-| Projeto | Descrição | Stack |
+<div align="center">
+
+| Plataforma | Nível | Progresso |
 |---|---|---|
-| [Scanner de Portas](https://github.com/nicolashenrique-dev/scanner-portas-python) | Port scanner desenvolvido do zero | Python |
-| [Sistema Escolar](https://escola-fawn.vercel.app/) | Sistema completo de gestão escolar | Node.js · EJS · PostgreSQL |
-| [GM Painéis](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/) | Landing page freelance real | HTML · CSS · JS · Tailwind |
+| HackTheBox | **Skilled** (Nível 31) | 15+ labs · 3 Medium |
+| TryHackMe | **Top 25% global** | 17 rooms · Streak ativo |
+
+</div>
 
 ---
 
