@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=header&text=Nicolas%20Henrique&fontSize=48&fontColor=E8E8E8&animation=fadeIn&fontAlignY=40&desc=Offensive%20Security%20%7C%20Cloud%20Security%20(AWS)%20%7C%20Security%20Engineering&descAlignY=62&descSize=15&descColor=A0A0A0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b1e,100:132a2e&height=170&section=header&text=Nicolas%20Henrique&fontSize=42&fontColor=E8E8E8&animation=fadeIn&fontAlignY=42&desc=Log%20de%20transi%C3%A7%C3%A3o%3A%20full-stack%20%E2%86%92%20seguran%C3%A7a%20ofensiva%20%26%20cloud&descAlignY=62&descSize=14&descColor=8FA89E" width="100%" />
 </div>
 
 <div align="center">
@@ -14,30 +14,45 @@
 
 <br/>
 
-## Sobre
-
-Profissional em formação com foco em **segurança ofensiva, pentest em nuvem (AWS) e automação de segurança**. Experiência prática em avaliação de vulnerabilidades, análise de exploits, auditoria de redes e arquitetura full-stack. Direciono minha atuação para consultoria remota a clientes internacionais, ajudando organizações a identificar e corrigir falhas de segurança em ambientes de rede e nuvem.
-
-- **Operações ofensivas** — prática consolidada em HackTheBox (nível Skilled) e TryHackMe (top 25% global)
-- **Infraestrutura em nuvem** — AWS Cloud Practitioner certificado; em preparação para o AWS Solutions Architect Associate (SAA-C03)
-- **Certificação em andamento** — Practical Network Penetration Tester (PNPT, TCM Security)
-- **Stack principal** — Linux (Fedora/Kali), Python para tooling de segurança, AWS, Node.js e análise de redes
+> **status:** em formação · técnico em Análise e Desenvolvimento de Sistemas (SENAI, conclusão em 2026) · migrando de desenvolvimento full-stack para segurança ofensiva e segurança em nuvem
 
 <br/>
 
-## Certificações e trilha profissional
+## `00.` Contexto
 
-| Credencial | Emissor | Status | Foco |
-|---|---|---|---|
-| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | Concluída | Fundamentos e arquitetura em nuvem |
-| Introduction to Cybersecurity | Cisco Networking Academy | Concluída | Fundamentos de segurança de redes |
-| Linux Unhatched | Linux Foundation | Concluída | Administração de sistemas Linux |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | Em andamento | Arquitetura e segurança em nuvem |
-| PNPT — Practical Network Penetration Tester | TCM Security | Em andamento | Pentest de redes, Active Directory e OSINT |
+Não venho da área de segurança — venho do desenvolvimento full-stack (React, React Native, Node.js). Estou usando essa base como vantagem enquanto migro para pentest e cloud security: entendo como as aplicações são construídas, o que ajuda a entender onde elas quebram.
+
+Sem atalhos de currículo: o que está aqui é o que pratiquei — labs, CTFs e projetos próprios — não experiência de mercado que ainda não tenho.
 
 <br/>
 
-## Competências técnicas
+## `01.` Onde estou hoje
+
+| Frente | Situação |
+|---|---|
+| Formação | ADS (SENAI) — conclusão em 2026 |
+| Prática ofensiva | HackTheBox — nível *Skilled* (31) · TryHackMe — top 25% global |
+| Cloud | AWS Cloud Practitioner concluída · estudando para o SAA-C03 |
+| Certificação em foco | PNPT (TCM Security) — em andamento |
+| Trabalho atual | Meio período em uma oficina, estudando nas horas livres |
+
+<br/>
+
+## `02.` Trilha de estudo
+
+```
+full-stack js  ──▶  fundamentos de redes/linux  ──▶  labs ofensivos (HTB/THM)
+                                                            │
+                                              AWS SAA-C03  ─┼─  PNPT
+                                                            │
+                                                            ▼
+                                      consultoria independente em offensive
+                                          & cloud security (meta de longo prazo)
+```
+
+<br/>
+
+## `03.` Ferramentas com as quais já pratiquei
 
 <table align="center">
   <tr>
@@ -73,32 +88,31 @@ Profissional em formação com foco em **segurança ofensiva, pentest em nuvem (
 
 <br/>
 
-## Projetos em destaque
+## `04.` Projetos
 
-| Projeto | Descrição | Stack |
+| Projeto | O que faz | Stack |
 |---|---|---|
-| **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Scanner de rede automatizado integrado à API do NIST/NVD, com correlação de versões de serviço a CVEs em tempo real | Python · REST APIs · Auditoria de rede |
-| **[GM Painéis — Landing Page](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/)** | Landing page comercial voltada a conversão, com integração de analytics e UX otimizada | HTML5 · Tailwind CSS · JavaScript |
-| **[Plataforma de Gestão Escolar](https://escola-fawn.vercel.app/)** | Sistema administrativo full-stack com autenticação por papéis (RBAC), consultas seguras e persistência relacional | Node.js · Express · PostgreSQL |
+| **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Scanner de rede construído do zero, integrado à API do NIST/NVD para correlacionar versões de serviço com CVEs conhecidas | Python · REST APIs |
+| **[GM Painéis — Landing Page](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/)** | Landing page comercial para cliente real, com analytics e foco em conversão | HTML5 · Tailwind CSS · JS |
+| **[Plataforma de Gestão Escolar](https://escola-fawn.vercel.app/)** | Sistema administrativo full-stack com autenticação por papéis (RBAC) | Node.js · Express · PostgreSQL |
 
 <br/>
 
-## Métricas em plataformas de segurança
+## `05.` Próximos passos
 
-| Plataforma | Nível atual | Destaque |
-|---|---|---|
-| HackTheBox | Skilled (nível 31) | Exploração ativa, escalonamento de privilégios e pivoting de rede |
-| TryHackMe | Top 25% global | Labs contínuos em Active Directory, ataques web e hardening de Linux |
+- [ ] Concluir PNPT
+- [ ] Certificação AWS SAA-C03
+- [ ] Primeiro programa de bug bounty (HackerOne / Intigriti)
+- [ ] Formatura no ADS (2026)
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicolashenrique-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=2a2a2a&title_color=64FFDA&icon_color=64FFDA&text_color=A0A0A0&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashenrique-dev&layout=compact&langs_count=6&theme=dark&border_color=2a2a2a&title_color=64FFDA&text_color=A0A0A0&bg_color=0d1117"/>
+  <sub>Se você chegou até aqui e quer trocar uma ideia sobre segurança, cloud ou essa transição de carreira, meu e-mail e LinkedIn estão no topo.</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=70&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:132a2e,100:0d1b1e&height=60&section=footer" width="100%" />
 </div>
