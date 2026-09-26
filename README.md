@@ -1,128 +1,104 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Nicolas%20Henrique&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Cloud%20Pentesting%20%28AWS%29%20%7C%20Security%20Engineering&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=header&text=Nicolas%20Henrique&fontSize=48&fontColor=E8E8E8&animation=fadeIn&fontAlignY=40&desc=Offensive%20Security%20%7C%20Cloud%20Security%20(AWS)%20%7C%20Security%20Engineering&descAlignY=62&descSize=15&descColor=A0A0A0" width="100%" />
 </div>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nicolas-henrique-144726369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://novo-seven-chi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="mailto:nicolasherique.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/nicolashenrique2410" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-  <a href="https://tryhackme.com/p/nicolashenrique2410" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/nicolas-henrique-144726369)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=react&logoColor=64FFDA)](https://novo-seven-chi.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=64FFDA)](mailto:nicolasherique.dev@gmail.com)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-1a1a1a?style=flat-square&logo=hackthebox&logoColor=64FFDA)](https://app.hackthebox.com/profile/nicolashenrique2410)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-1a1a1a?style=flat-square&logo=tryhackme&logoColor=64FFDA)](https://tryhackme.com/p/nicolashenrique2410)
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Offensive+Security+%26+Pentesting;Cloud+Security+%28AWS+Architecture%29;Security+Tooling+%26+Automation;PNPT+%7C+AWS+SAA-C03+Candidate" alt="Typing SVG" />
-</div>
+## Sobre
 
----
+Profissional em formação com foco em **segurança ofensiva, pentest em nuvem (AWS) e automação de segurança**. Experiência prática em avaliação de vulnerabilidades, análise de exploits, auditoria de redes e arquitetura full-stack. Direciono minha atuação para consultoria remota a clientes internacionais, ajudando organizações a identificar e corrigir falhas de segurança em ambientes de rede e nuvem.
 
-## 📌 Executive Summary
+- **Operações ofensivas** — prática consolidada em HackTheBox (nível Skilled) e TryHackMe (top 25% global)
+- **Infraestrutura em nuvem** — AWS Cloud Practitioner certificado; em preparação para o AWS Solutions Architect Associate (SAA-C03)
+- **Certificação em andamento** — Practical Network Penetration Tester (PNPT, TCM Security)
+- **Stack principal** — Linux (Fedora/Kali), Python para tooling de segurança, AWS, Node.js e análise de redes
 
-Professional specializing in **Offensive Security, Cloud Penetration Testing (AWS), and Security Automation**. Experience in vulnerability assessment, exploit analysis, network auditing, and full-stack architecture. Focused on delivering high-impact consulting services for international clients, helping organizations identify and remediate security flaws in cloud and network environments.
+<br/>
 
-- 🔴 **Offensive Operations:** Practical experience via **HackTheBox (Skilled)** & **TryHackMe (Top 25% Global)**.
-- ☁️ **Cloud Infrastructure:** **AWS Certified Cloud Practitioner**; currently preparing for **AWS Solutions Architect Associate (SAA-C03)**.
-- 🛡️ **Certifications in Progress:** Practical Network Penetration Tester (**PNPT** by TCM Security).
-- ⚙️ **Core Stack:** Linux Architecture (Fedora/Kali), Python Security Tooling, AWS Infrastructure, Node.js, and Network Analysis.
+## Certificações e trilha profissional
 
----
-
-## 🏅 Certifications & Professional Roadmap
-
-<div align="center">
-
-| Credential / Certification | Issuer | Status | Focus / Specialization |
+| Credencial | Emissor | Status | Foco |
 |---|---|---|---|
-| **AWS Cloud Practitioner (CLF-C02)** | Amazon Web Services | ✅ Active | Cloud Fundamentals & Architecture |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | ✅ Active | Network Security Fundamentals |
-| **Linux Unhatched** | Linux Foundation | ✅ Active | Linux System Administration |
-| **AWS Solutions Architect Associate (SAA-C03)** | Amazon Web Services | 🔄 In Progress | Enterprise Cloud Security & Architecture |
-| **PNPT — Practical Network Penetration Tester** | TCM Security | 🔄 In Progress | Network Pentesting, Active Directory & OSINT |
+| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | Concluída | Fundamentos e arquitetura em nuvem |
+| Introduction to Cybersecurity | Cisco Networking Academy | Concluída | Fundamentos de segurança de redes |
+| Linux Unhatched | Linux Foundation | Concluída | Administração de sistemas Linux |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | Em andamento | Arquitetura e segurança em nuvem |
+| PNPT — Practical Network Penetration Tester | TCM Security | Em andamento | Pentest de redes, Active Directory e OSINT |
 
-</div>
+<br/>
 
----
-
-## ⚡ Technical Skills & Ecosystem
+## Competências técnicas
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><strong>🔴 Offensive Security</strong></td>
-    <td align="center" width="200"><strong>☁️ Cloud & Infrastructure</strong></td>
-    <td align="center" width="200"><strong>🛠️ DevSecOps & Scripting</strong></td>
+    <td align="center" width="220"><strong>Segurança ofensiva</strong></td>
+    <td align="center" width="220"><strong>Nuvem e infraestrutura</strong></td>
+    <td align="center" width="220"><strong>Automação e scripting</strong></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logoColor=white" />
+    <td valign="top">
+      Kali Linux<br/>
+      Burp Suite<br/>
+      Nmap<br/>
+      Metasploit<br/>
+      Wireshark<br/>
+      OWASP ZAP
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+    <td valign="top">
+      AWS<br/>
+      Linux<br/>
+      Docker<br/>
+      Bash<br/>
+      PostgreSQL
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat&logoColor=white" />
+    <td valign="top">
+      Python<br/>
+      Node.js<br/>
+      React<br/>
+      Git<br/>
+      REST APIs
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🔬 Key Security Projects & Tooling
+## Projetos em destaque
 
-| Project | Description | Core Tech |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| 🛡️ **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Automated network scanner integrated with NIST/NVD API for real-time service versioning and CVE correlation. | `Python` `REST APIs` `Network Audit` |
-| 🌐 **[GM Painéis Enterprise Landing Page](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/)** | Commercial landing page built for client conversion with Analytics integration and optimized UX. | `HTML5` `Tailwind CSS` `JavaScript` |
-| 🎓 **[School Management Platform](https://escola-fawn.vercel.app/)** | Full-stack administrative engine featuring RBAC authentication, secure query design, and relational DB persistence. | `Node.js` `Express` `PostgreSQL` |
+| **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Scanner de rede automatizado integrado à API do NIST/NVD, com correlação de versões de serviço a CVEs em tempo real | Python · REST APIs · Auditoria de rede |
+| **[GM Painéis — Landing Page](https://nicolashenrique-dev.github.io/nicolashenrique-dev-pagina-comercial-gm-paineis/)** | Landing page comercial voltada a conversão, com integração de analytics e UX otimizada | HTML5 · Tailwind CSS · JavaScript |
+| **[Plataforma de Gestão Escolar](https://escola-fawn.vercel.app/)** | Sistema administrativo full-stack com autenticação por papéis (RBAC), consultas seguras e persistência relacional | Node.js · Express · PostgreSQL |
 
----
+<br/>
 
-## 📈 Security Labs & CTF Metrics
+## Métricas em plataformas de segurança
+
+| Plataforma | Nível atual | Destaque |
+|---|---|---|
+| HackTheBox | Skilled (nível 31) | Exploração ativa, escalonamento de privilégios e pivoting de rede |
+| TryHackMe | Top 25% global | Labs contínuos em Active Directory, ataques web e hardening de Linux |
+
+<br/>
 
 <div align="center">
-
-| Platform | Current Rank / Level | Highlight |
-|---|---|---|
-| **HackTheBox** | **Skilled** (Level 31) | Active exploitation, privilege escalation, and network pivots |
-| **TryHackMe** | **Top 25% Global** | Continuous labs focusing on Active Directory, Web Attacks, and Linux Hardening |
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicolashenrique-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=2a2a2a&title_color=64FFDA&icon_color=64FFDA&text_color=A0A0A0&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashenrique-dev&layout=compact&langs_count=6&theme=dark&border_color=2a2a2a&title_color=64FFDA&text_color=A0A0A0&bg_color=0d1117"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolashenrique-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=9FEF00&title_color=9FEF00&icon_color=9FEF00"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashenrique-dev&layout=compact&langs_count=6&theme=dark&border_color=9FEF00&title_color=9FEF00"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=70&section=footer" width="100%" />
 </div>
