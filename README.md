@@ -16,7 +16,7 @@
 
 ## About
 
-I design, provision and secure cloud infrastructure using **Terraform**, **Docker** and **Linux**, applying security controls at the infrastructure layer.
+I design, provision and secure cloud infrastructure using **Linux**, applying security controls at the infrastructure layer.
 
 On the offensive side, I develop practical tools such as a Python port scanner that performs banner grabbing, technology detection, OS fingerprinting and CVE correlation, and I have built phishing simulation campaigns for educational purposes.
 
@@ -31,9 +31,9 @@ Currently preparing for the **AWS Solutions Architect Associate (SAA-C03)**.
 | Cloud | Offensive / Security | Development |
 |---|---|---|
 | AWS (EC2, S3, VPC, IAM, DynamoDB, Lambda) | Python (port scanner + CVE correlation) | Node.js |
-| Terraform | Phishing simulations | React.js |
-| Docker | Nmap · Burp Suite · Metasploit | JavaScript |
-| Linux | Wireshark · OWASP ZAP | PostgreSQL |
+| Linux | Phishing simulations | React.js |
+| | Nmap · Burp Suite · Metasploit | JavaScript |
+| | Wireshark · OWASP ZAP | PostgreSQL |
 
 <br/>
 
@@ -55,7 +55,7 @@ Currently preparing for the **AWS Solutions Architect Associate (SAA-C03)**.
 |---|---|---|
 | **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Network scanner built from scratch: banner grabbing, technology detection, OS fingerprinting and CVE correlation via the NIST/NVD API | Python · REST APIs |
 | **Phishing simulation campaigns** | Simulated phishing campaigns built for educational and awareness purposes | Python |
-| **Freelance cloud infrastructure project** | End-to-end delivery for a client, including cloud infrastructure for a commercial website | AWS · Terraform |
+| **Freelance cloud infrastructure project** | End-to-end delivery for a client, including cloud infrastructure for a commercial website | AWS |
 | **Serverless application on AWS** | Application built on a serverless architecture (Lambda, DynamoDB, API Gateway) | AWS |
 | **[School Management Platform](https://escola-fawn.vercel.app/)** | Full-stack administrative system with role-based authentication (RBAC) | Node.js · Express · PostgreSQL |
 
