@@ -1,84 +1,106 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b1e,100:132a2e&height=170&section=header&text=Nicolas%20Henrique&fontSize=42&fontColor=E8E8E8&animation=fadeIn&fontAlignY=42&desc=Cloud%20Security%20and%20Offensive%20Security%20%7C%20Technology%20Apprentice%20at%20Usina%20Santa%20Ad%C3%A9lia%20(SENAI)&descAlignY=62&descSize=13&descColor=8FA89E" width="100%" />
-</div>
+# Nicolas Henrique
+**Offensive Security | Pentesting | AWS Cloud Security | Full-Stack Development**  
+Entender como aplicações são construídas para identificar vulnerabilidades e desenvolver sistemas seguros.
 
-<div align="center">
+## Sobre mim
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/nicolas-henrique-144726369)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=react&logoColor=64FFDA)](https://novo-seven-chi.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=64FFDA)](mailto:nicolashenrique.sec@gmail.com)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-1a1a1a?style=flat-square&logo=hackthebox&logoColor=64FFDA)](https://app.hackthebox.com/profile/nicolashenrique2410)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-1a1a1a?style=flat-square&logo=tryhackme&logoColor=64FFDA)](https://tryhackme.com/p/nicolashenrique2410)
+Atuo com desenvolvimento Full-Stack em ambiente corporativo e aprofundo minha prática em Offensive Security.
+Minha experiência conecta REST APIs, interfaces web e bancos de dados à infraestrutura em AWS.
+Desenvolvo automações em Python e documento análises de segurança em labs e CTFs.
+Estou aberto a projetos freelance de Pentesting, Vulnerability Assessment, Cloud Security e desenvolvimento de software.
 
-</div>
+## Stack e tecnologias
 
-<br/>
+**Linguagens**
 
-## About
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-I design, provision and secure cloud infrastructure using **Linux**, applying security controls at the infrastructure layer.
+**Frontend**
 
-On the offensive side, I develop practical tools such as a Python port scanner that performs banner grabbing, technology detection, OS fingerprinting and CVE correlation, and I have built phishing simulation campaigns for educational purposes.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-I also delivered a complete freelance project that included cloud infrastructure for a commercial website, and developed a serverless application on AWS.
+**Backend**
 
-Currently preparing for the **AWS Solutions Architect Associate (SAA-C03)**.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-425563?style=flat-square)
 
-<br/>
+**Dados**
 
-## Current Stack
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-| Cloud | Offensive / Security | Development |
-|---|---|---|
-| AWS (EC2, S3, VPC, IAM, DynamoDB, Lambda) | Python (port scanner + CVE correlation) | Node.js |
-| Linux | Phishing simulations | React.js |
-| | Nmap · Burp Suite · Metasploit | JavaScript |
-| | Wireshark · OWASP ZAP | PostgreSQL |
+**DevOps/Cloud**
 
-<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square)
+![ACM](https://img.shields.io/badge/AWS_Certificate_Manager-232F3E?style=flat-square)
 
-## Certifications
+**Ferramentas e integrações**
 
-| Credential | Issuer | Status |
-|---|---|---|
-| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | Completed |
-| Cisco Introduction to Cybersecurity | Cisco Networking Academy | Completed |
-| Linux Unhatched | Linux Foundation | Completed |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | In progress |
-| PNPT — Practical Network Penetration Tester | TCM Security | In progress |
+![NIST NVD API](https://img.shields.io/badge/NIST_NVD_API-1F4E79?style=flat-square)
 
-<br/>
+Integração utilizada no scanner em Python para correlação de CVEs.
 
-## Projects
+## Experiência
 
-| Project | Description | Stack |
-|---|---|---|
-| **[CVE Port Scanner](https://github.com/nicolashenrique-dev/scanner-portas-python)** | Network scanner built from scratch: banner grabbing, technology detection, OS fingerprinting and CVE correlation via the NIST/NVD API | Python · REST APIs |
-| **Phishing simulation campaigns** | Simulated phishing campaigns built for educational and awareness purposes | Python |
-| **Freelance cloud infrastructure project** | End-to-end delivery for a client, including cloud infrastructure for a commercial website | AWS |
-| **Serverless application on AWS** | Application built on a serverless architecture (Lambda, DynamoDB, API Gateway) | AWS |
-| **[School Management Platform](https://escola-fawn.vercel.app/)** | Full-stack administrative system with role-based authentication (RBAC) | Node.js · Express · PostgreSQL |
+### Technology Apprentice — Usina Santa Adélia
+**Novembro de 2025 – atual**
 
-<br/>
+Programa de formação técnica corporativa em parceria com o SENAI, com atuação presencial.
 
-## Status
+- Desenvolvimento de REST APIs com Node.js, aplicando princípios de clean architecture e fluxos de versionamento.
+- Construção de interfaces responsivas com React, Tailwind CSS e HTML5, com foco em componentização.
+- Modelagem e consultas em PostgreSQL e SQL para aplicações em ambiente corporativo.
 
-- Technology Apprentice (SENAI) at Usina Santa Adélia
-- Completing a technical degree in Systems Analysis and Development (SENAI) — 2026
-- HackTheBox: *Skilled* (Level 31) · TryHackMe: Top 25% Global
+### Projeto comercial freelance — AWS
+**Período não informado no perfil**
 
-**Open to:** pentest projects, offensive security consulting and red team opportunities — remote or freelance.
+- Entrega de ambiente de produção com Amazon S3, CloudFront e ACM, com foco em segurança e eficiência de custos.
 
-<br/>
+## Formação e certificações
 
-<div align="center">
+**Técnico em Desenvolvimento de Sistemas — SENAI São Paulo**  
+Janeiro de 2025 – dezembro de 2026.
 
-GitHub: [github.com/nicolashenrique-dev](https://github.com/nicolashenrique-dev) · Email: [nicolashenrique.sec@gmail.com](mailto:nicolashenrique.sec@gmail.com)
+**Cursos e certificados listados no perfil**
 
-</div>
+- Solutions Architect Associate — Preparatory course (**curso preparatório**).
+- Practical Ethical Hacking.
+- Practical Security Fundamentals.
+- Introduction to Cybersecurity.
+- Por Dentro da Segurança Cibernética.
 
-<br/>
+**Idioma:** inglês — nível profissional de trabalho.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:132a2e,100:0d1b1e&height=60&section=footer" width="100%" />
-</div>
+## Projetos em destaque
+
+### [NOME DO PROJETO] — Scanner de vulnerabilidades em Python
+- Scanner multithreaded com detecção de serviços, banner grabbing e correlação de CVEs pela NIST NVD API.
+- **Repositório:** [LINK]
+
+### [NOME DO PROJETO] — Projeto comercial em AWS
+- Ambiente de produção com Amazon S3, CloudFront e ACM, orientado à segurança e eficiência de custos.
+- **Projeto ou estudo de caso:** [LINK]
+
+### [NOME DO PROJETO] — Write-ups de segurança
+- Documentação de labs e CTFs: reconnaissance, enumeration, exploitation, privilege escalation e resultados.
+- **Repositório:** [LINK]
+
+## Estatísticas do GitHub
+
+<!-- Substitua USUARIO pelo seu nome de usuário do GitHub. -->
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+
+![Linguagens nos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
+
+## Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-henrique-dev)
+- ✉️ [E-mail](mailto:nicolashenrique2410@gmail.com)
+- 🌐 [Portfólio](https://portfolio-site-beta-nine-76.vercel.app/)
+
