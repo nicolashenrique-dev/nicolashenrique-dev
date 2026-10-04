@@ -64,7 +64,13 @@ Atuação presencial em programa de formação técnica corporativa em parceria 
 **Técnico em Desenvolvimento de Sistemas — SENAI São Paulo**  
 Janeiro de 2025 – dezembro de 2026.
 
-**Cursos e certificados**
+### Certificação AWS
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square)
+
+- **AWS Certified Cloud Practitioner (CCP)** — Amazon Web Services.
+
+### Cursos e demais certificados
 
 - Practical Ethical Hacking.
 - Practical Security Fundamentals.
